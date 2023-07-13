@@ -1,7 +1,7 @@
 ### Olá! 👋
 
-- 🔭 Sou estagiário, atuando com Java SpringBoot.
-- 🌱 SpringBoot, Java, PostgreSQL.
+- 🔭 Sou Trainee, atuando com Java Spring Boot / Vue.js 3.
+- 🌱 Java, SpringBoot, TypeScript, Angular, Vue.js, PostgreSQL, Oracle.
 - 😄 Pronouns: Ele/Dele
 
 <div>
