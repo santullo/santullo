@@ -1,8 +1,7 @@
 ### Olá! 👋
 
-- 🔭 Sou Trainee, atuando com Java Spring Boot / Vue.js 3.
-- 🌱 Java, SpringBoot, TypeScript, Angular, Vue.js, PostgreSQL, Oracle.
-- 😄 Pronouns: Ele/Dele
+- 🔭 Sou Trainee, atuando com Java EJB / Angular 5.
+- 🌱 Java, SpringBoot, TypeScript, Angular, PostgreSQL, Oracle.
 
 <div>
   <a href="https://github.com/santullo">
