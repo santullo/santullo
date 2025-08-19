@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🔭 Desenvolvedor Junior com experiência em JavaEE e Angular. Atuo com desenvolvimento full stack utilizando JavaEE, incluindo tecnologias como Hibernate, JPA. Além de trabalhar com Jenkins, Git, GitLab e bancos de dados Oracle. No front-end, utilizo Angular 6 com TypeScript para desenvolver interfaces interativas e dinâmicas.
+- 🔭 Desenvolvedor Pleno com experiência em JavaEE e Angular. Atuo com desenvolvimento full stack utilizando JavaEE, incluindo tecnologias como Hibernate, JPA. Além de trabalhar com Jenkins, Git, GitLab e bancos de dados Oracle. No front-end, utilizo Angular 6 com TypeScript para desenvolver interfaces interativas e dinâmicas.
 - 🌱 Java, SpringBoot, TypeScript, Angular, PostgreSQL, Oracle.
 
 <div>
