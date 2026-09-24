@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ BANNER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,60:0f2418,100:14532d&text=Gabriel%20Santullo&fontColor=39d353&fontSize=52&fontAlignY=38&desc=Desenvolvedor%20Pleno%20%C2%B7%20Java%20%26%20Angular&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Gabriel Santullo" />
+  <img src="./assets/banner.svg" width="100%" alt="Gabriel Santullo — Desenvolvedor Pleno" />
 </p>
 
 <!-- ═══════════════════════════ TYPING ═══════════════════════════ -->
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-santullo-rocha/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=39d353" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-santullo-rocha/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMzlkMzUzIiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/gabriel.santullo/"><img src="https://img.shields.io/badge/@gabriel.santullo-0d1117?style=flat-square&logo=instagram&logoColor=39d353" alt="Instagram" /></a>
   <img src="https://komarev.com/ghpvc/?username=santullo&label=visitas&color=39d353&style=flat-square&labelColor=0d1117" alt="Visitas" />
 </p>
@@ -144,7 +144,7 @@ gabriel.migra(
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-santullo-rocha/">
-    <img src="https://img.shields.io/badge/LinkedIn-gabriel--santullo--rocha-39d353?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-gabriel--santullo--rocha-39d353?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg%3D%3D&labelColor=0d1117" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/gabriel.santullo/">
     <img src="https://img.shields.io/badge/Instagram-@gabriel.santullo-39d353?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
@@ -160,5 +160,5 @@ gabriel.migra(
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14532d,40:0f2418,100:0d1117" width="100%" alt="footer" />
+  <img src="./assets/footer.svg" width="100%" alt="" />
 </p>
