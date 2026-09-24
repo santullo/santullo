@@ -1,63 +1,164 @@
-<h1 align="center">Olá, eu sou Gabriel 👋</h1>
-
+<!-- ═══════════════════════════ BANNER ═══════════════════════════ -->
 <p align="center">
-  Desenvolvedor Full Stack focado em <b>Java (Spring Boot)</b> e <b>Angular</b>, construindo sistemas corporativos, APIs REST e projetos de portfólio.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,60:0f2418,100:14532d&text=Gabriel%20Santullo&fontColor=39d353&fontSize=52&fontAlignY=38&desc=Desenvolvedor%20Pleno%20%C2%B7%20Java%20%26%20Angular&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Gabriel Santullo" />
 </p>
 
+<!-- ═══════════════════════════ TYPING ═══════════════════════════ -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-santullo-rocha/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/santullo">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=39D353&center=true&vCenter=true&width=620&height=45&lines=Desenvolvedor+Pleno+na+Memora+Processos+Inovadores;Sistemas+da+PGE-GO+e+do+IPHAN;Java+8+%E2%86%92+Java+21+%C2%B7+Angular+6+%E2%86%92+Angular+17;Mantendo+o+legado.+Migrando+o+legado." alt="Typing SVG" />
   </a>
 </p>
 
----
-
-### 🔭 Sobre mim
-
-- 💼 Atuo no desenvolvimento de sistemas corporativos e APIs REST, com foco em arquitetura de software e boas práticas.
-- ⚙️ Backend: Spring Boot, Hibernate, JPA, Liquibase, Spring Security, PostgreSQL, Oracle e SQL Server.
-- 💻 Frontend: Angular (versões recentes) e TypeScript, criando interfaces dinâmicas e escaláveis.
-- 🔧 CI/CD e ferramentas: Git, GitLab, Jenkins, Docker.
-- 🌱 Aprofundando conhecimentos em arquitetura limpa, segurança de APIs e projetos de portfólio full stack.
-
-### 🛠️ Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-santullo-rocha/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=39d353" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/gabriel.santullo/"><img src="https://img.shields.io/badge/@gabriel.santullo-0d1117?style=flat-square&logo=instagram&logoColor=39d353" alt="Instagram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=santullo&label=visitas&color=39d353&style=flat-square&labelColor=0d1117" alt="Visitas" />
 </p>
 
----
+<br>
 
-### 📊 GitHub Stats
+<!-- ═══════════════════════════ SOBRE MIM ═══════════════════════════ -->
+## `> sobre_mim`
 
-<p align="left">
-  <img height="165em" src="https://github-readme-stats-eta-black.vercel.app/api?username=santullo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats-eta-black.vercel.app/api/top-langs/?username=santullo&layout=compact&theme=dark&hide_border=true" />
+Sou **Gabriel Santullo Rocha Lima**, desenvolvedor pleno na **Memora Processos Inovadores**, onde estou há cerca de 4 anos.
+
+Trabalho nos sistemas da **PGE-GO** e do **IPHAN**. Boa parte do meu dia é dedicada a sistemas legados: entender o que já existe, corrigir e melhorar sem quebrar o que está em produção. A outra parte é tirar esses sistemas do passado e levá-los para uma stack atual.
+
+```java
+var gabriel = new Desenvolvedor(
+    "Gabriel Santullo Rocha Lima",
+    "Desenvolvedor Pleno",
+    "Memora Processos Inovadores"   // ~4 anos
+);
+
+gabriel.atuaEm("PGE-GO", "IPHAN");
+
+gabriel.migra(
+    Stack.of("Java 8",  "Angular 6 + Material", "Oracle"),   // legado
+    Stack.of("Java 21", "Angular 17 + PrimeNG", "Oracle")    // novo
+);
+```
+
+<br>
+
+<!-- ═══════════════════════════ TECNOLOGIAS ═══════════════════════════ -->
+## `> stack`
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="44" height="44" alt="Java" />
+      <br><sub>Java 8+</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="44" height="44" alt="Spring Boot" />
+      <br><sub>Spring Boot</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="44" height="44" alt="Angular" />
+      <br><sub>Angular</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="44" height="44" alt="Oracle" />
+      <br><sub>Oracle</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" />
+      <br><sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" height="44" alt="Git" />
+      <br><sub>Git</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="44" height="44" alt="Jenkins" />
+      <br><sub>Jenkins</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular_Material-0d1117?style=flat-square&logo=angular&logoColor=39d353" alt="Angular Material" />
+  <img src="https://img.shields.io/badge/PrimeNG-0d1117?style=flat-square&logoColor=39d353" alt="PrimeNG" />
+  <img src="https://img.shields.io/badge/Java_21-0d1117?style=flat-square&logo=openjdk&logoColor=39d353" alt="Java 21" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santullo&theme=dark&hide_border=true" />
+<br>
+
+<!-- ═══════════════════════════ PROJETOS ═══════════════════════════ -->
+## `> projetos`
+
+<p align="center">
+  <a href="https://github.com/santullo/docker-manager">
+    <img src="https://github-readme-stats-eta-black.vercel.app/api/pin/?username=santullo&repo=docker-manager&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&border_color=1f3d2a&border_radius=10" alt="docker-manager" />
+  </a>
+  <a href="https://github.com/santullo/demo">
+    <img src="https://github-readme-stats-eta-black.vercel.app/api/pin/?username=santullo&repo=demo&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&border_color=1f3d2a&border_radius=10" alt="demo" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/santullo/exceptions-java">
+    <img src="https://github-readme-stats-eta-black.vercel.app/api/pin/?username=santullo&repo=exceptions-java&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&border_color=1f3d2a&border_radius=10" alt="exceptions-java" />
+  </a>
 </p>
 
----
+<br>
 
-### 🌐 Contato
+<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
+## `> github`
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-santullo-rocha/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats-eta-black.vercel.app/api?username=santullo&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&hide_border=true&border_radius=10&locale=pt-br" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-eta-black.vercel.app/api/top-langs/?username=santullo&layout=compact&langs_count=6&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&hide_border=true&border_radius=10&locale=pt-br" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=santullo&locale=pt_BR&hide_border=true&border_radius=10&background=0d1117&ring=39d353&fire=39d353&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&stroke=1f3d2a" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-activity-graph.vercel.app/graph?username=santullo&bg_color=0d1117&color=8b949e&line=39d353&point=c9d1d9&area=true&area_color=39d353&hide_border=true&radius=10&title_color=39d353&custom_title=Atividade%20recente" alt="Activity Graph" />
+</p>
+
+<!-- ═══════════════════════════ TROFÉUS ═══════════════════════════ -->
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=santullo&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+</p>
+
+<br>
+
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santullo/santullo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santullo/santullo/output/github-snake.svg" />
+    <img alt="Snake comendo as contribuições" src="https://raw.githubusercontent.com/santullo/santullo/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<br>
+
+<!-- ═══════════════════════════ CONTATO ═══════════════════════════ -->
+## `> contato`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-santullo-rocha/">
+    <img src="https://img.shields.io/badge/LinkedIn-gabriel--santullo--rocha-39d353?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/gabriel.santullo/">
+    <img src="https://img.shields.io/badge/Instagram-@gabriel.santullo-39d353?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
   </a>
   <a href="mailto:rochasantullo@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-rochasantullo-39d353?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" />
   </a>
+</p>
+
+<!-- ═══════════════════════════ RODAPÉ ═══════════════════════════ -->
+<p align="center">
+  <sub><code>// legado não é problema. é ponto de partida.</code></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14532d,40:0f2418,100:0d1117" width="100%" alt="footer" />
 </p>
