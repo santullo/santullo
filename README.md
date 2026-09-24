@@ -6,7 +6,7 @@
 <!-- ═══════════════════════════ TYPING ═══════════════════════════ -->
 <p align="center">
   <a href="https://github.com/santullo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=39D353&center=true&vCenter=true&width=620&height=45&lines=Desenvolvedor+Pleno+na+Memora+Processos+Inovadores;Sistemas+da+PGE-GO+e+do+IPHAN;Java+8+%E2%86%92+Java+21+%C2%B7+Angular+6+%E2%86%92+Angular+17;Mantendo+o+legado.+Migrando+o+legado." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=39D353&center=true&vCenter=true&width=620&height=45&lines=Sistemas+da+PGE-GO+e+do+IPHAN;Java+8+%E2%86%92+Java+21+%C2%B7+Angular+6+%E2%86%92+Angular+17;Mantendo+o+legado.+Migrando+o+legado." alt="Typing SVG" />
   </a>
 </p>
 
